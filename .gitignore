@@ -23,3 +23,6 @@ htmlcov/
 # IDE
 .idea/
 .vscode/
+
+# Dataset
+dataset/
